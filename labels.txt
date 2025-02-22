@@ -1,0 +1,7 @@
+0 Biriyani
+1 Dosa
+2 Vada
+3 Rice
+4 Idli
+5 Chicken gravy
+6 Poori
